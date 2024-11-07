@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zsct6/WsMvI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ernes\\Documents\\UNC_2024\\Programación Aplicada 2\\HybridArchitecture.NET-main\\ESCMBDD\\ProyectoFinal\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ernes\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\ernes\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\ernes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
