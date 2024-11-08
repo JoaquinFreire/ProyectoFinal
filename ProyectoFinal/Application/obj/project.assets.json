@@ -755,32 +755,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ernes\\.nuget\\packages\\": {}
+    "C:\\Users\\Bruno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ernes\\Documents\\UNC_2024\\Programación Aplicada 2\\HybridArchitecture.NET-main\\ESCMBDD\\ProyectoFinal\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno\\OneDrive\\Escritorio\\proyectofinal\\ProyectoFinal\\ProyectoFinal\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\ernes\\Documents\\UNC_2024\\Programación Aplicada 2\\HybridArchitecture.NET-main\\ESCMBDD\\ProyectoFinal\\Application\\Application.csproj",
-      "packagesPath": "C:\\Users\\ernes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ernes\\Documents\\UNC_2024\\Programación Aplicada 2\\HybridArchitecture.NET-main\\ESCMBDD\\ProyectoFinal\\Application\\obj\\",
+      "projectPath": "C:\\Users\\Bruno\\OneDrive\\Escritorio\\proyectofinal\\ProyectoFinal\\ProyectoFinal\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bruno\\OneDrive\\Escritorio\\proyectofinal\\ProyectoFinal\\ProyectoFinal\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ernes\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ernes\\Documents\\UNC_2024\\Programación Aplicada 2\\HybridArchitecture.NET-main\\ESCMBDD\\ProyectoFinal\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\ernes\\Documents\\UNC_2024\\Programación Aplicada 2\\HybridArchitecture.NET-main\\ESCMBDD\\ProyectoFinal\\Domain\\Domain.csproj"
+            "C:\\Users\\Bruno\\OneDrive\\Escritorio\\proyectofinal\\ProyectoFinal\\ProyectoFinal\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Bruno\\OneDrive\\Escritorio\\proyectofinal\\ProyectoFinal\\ProyectoFinal\\Domain\\Domain.csproj"
             }
           }
         }
@@ -833,7 +836,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
